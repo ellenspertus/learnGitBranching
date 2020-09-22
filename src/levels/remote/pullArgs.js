@@ -71,7 +71,7 @@ exports.level = {
               "",
               "See? git pull is really just shorthand for fetch + merge, and all git pull cares about is where the commits ended up (the `destination` argument that it figures out during fetch).",
               "",
-              "Lets see a demo:"
+              "Let's see a demo:"
             ]
           }
         },
